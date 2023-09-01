@@ -14,9 +14,17 @@ The files contained in this repository are the following:
 - **cnn_optimization.ipynb**: Optimization of hyperparameters of the CNN model.
 - **model_testing.ipynb**: Training and testing of each model. Running the three experiments mentioned in the report.
 - **shap.ipynb**: SHAP-analysis of the predictions.
-- **misclassifications.ipynb**: misclassification analysis of the predictions. 
+
+## Data:
+- **spatial_features/**: spatial feature files used for preprocessing.
+- **graphs/**: graph of Copenhagen Municipality, street network and Geodataframe used for preprocessing. 
+- **data/**: preprocessed data used as machine learning input for the three experiments.
+- **data/predictions/**: predictions made
+
 
 ### Visualization notebooks: 
 - **correlation_matrix.ipynb**: Create correlation matrix used in report.
 - **prediction_insights.ipynb**: Heatmaps and stacked bar plots used in report.
 - **viz.ipynb**: Additional visualizations.
+- **misclassifications.ipynb**: misclassification analysis of the predictions.
+
