@@ -17,6 +17,6 @@ The files contained in this repository are the following:
 - **misclassifications.ipynb**: misclassification analysis of the predictions. 
 
 ### Visualization notebooks: 
-- **correlation_matrices.ipynb**: Create correlation matrices with different distance buffers used in report.
+- **correlation_matrix.ipynb**: Create correlation matrix used in report.
 - **prediction_insights.ipynb**: Heatmaps and stacked bar plots used in report.
 - **viz.ipynb**: Additional visualizations.
