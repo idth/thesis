@@ -2,7 +2,7 @@
 
 #### Author: Ida Thrane (idth@itu.dk)
 
-This repository contains all code to the thesis project "Modelling Street Suitability for Tree Planting". Data is not stored here, but is obtainable through OpenStreetMap (OSM) and Opendata DK (link to dataset of trees in Copenhagen Municipality: https://www.opendata.dk/city-of-copenhagen/gadetraeer)
+This repository contains all code to the thesis project "Modelling Street Suitability for Tree Planting". Not all data is stored here, because of file size limits, but the data is obtainable through OpenStreetMap (OSM) and Opendata DK (link to dataset of trees in Copenhagen Municipality: https://www.opendata.dk/city-of-copenhagen/gadetraeer)
 
 ## Files in repository 
 The files contained in this repository are the following: 
